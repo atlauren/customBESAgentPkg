@@ -22,5 +22,5 @@ optional arguments:
                         add branding text to the BESAgent pacakge
   --settings, -s        add custom settings cfg to the BESAgent pacakge
   --package CUSTOM_PKG, -p CUSTOM_PKG
-                        specify the BESAgent pacakge to use
+                        specify the BESAgent package to use
 ~~~~ 
